@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-63ae7": {
+      "hosting": {
+        "Firebase": [
+          "fir-63ae7"
+        ]
+      }
+    }
+  }
+}
